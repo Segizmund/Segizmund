@@ -1,1 +1,3 @@
-# My-achievements
+![Segizmund`s GitHub stats](https://github-readme-stats.vercel.app/api?username=Segizmund&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Segizmund&theme=tokyonight&layout=compact)
