@@ -72,9 +72,7 @@ Focused on building scalable architecture: designing databases and RBAC models, 
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=Segizmund&show_icons=true&theme=radical" alt="GitHub Stats" width="50%" />
   <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=Segizmund&theme=radical" alt="GitHub Streak" width="50%" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Segizmund&layout=compact&theme=radical&hide=html" alt="Top Languages" width="100%" style="max-width: 800px;" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Segizmund&layout=compact&theme=radical&hide=html" alt="Top Languages" width="50%" />
 </p>
 
 
