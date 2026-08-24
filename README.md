@@ -53,19 +53,6 @@ Focused on building scalable architecture: designing databases and RBAC models, 
 
 </div>
 
----
-
-### 🚀 Featured Projects
-
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| 🎓 **University Portals** | Series of high-load portals for Melitopol State University: interactive 2D/3D campus maps, timesheet systems, and electronic scientific archives (ELAR). | `Laravel` `React` `Inertia` `MapLibre` `TS` |
-| 📄 **Resume Builder** | Resume builder with real-time preview, switchable templates, and client-side vector PDF generation with full Cyrillic font support. | `React` `TypeScript` `@react-pdf/renderer` `Tailwind` |
-| 📞 **Call Analytics** | Call analytics dashboard: filtering, pagination, server-side sorting, and a custom audio player for call recordings. | `React` `TypeScript` `REST API` `Tailwind` |
-| 🚜 **Agro Field Monitor** | Agricultural field management service with interactive SVG maps and dynamic weather layer overlays via OpenWeatherMap API. | `Laravel` `React` `MapLibre` `Vite` |
-
----
-
 ### 📊 GitHub Stats
 
 <div align="center">
