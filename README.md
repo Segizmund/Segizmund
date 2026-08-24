@@ -33,7 +33,7 @@ Focused on building scalable architecture: designing databases and RBAC models, 
 <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=typescript&theme=dark" alt="TypeScript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=javascript&theme=dark" alt="JavaScript" /></a>
 <a href="https://tailwindcss.com/" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" alt="Tailwind CSS" /></a>
-<a href="https://inertiajs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=inertia&theme=dark" alt="Inertia.js" /></a>
+<a href="https://inertiajs.com/" target="_blank"><img src="https://thesvg.org/icons/inertiajs/default.svg" width="48" height="48" alt="Inertia.js" /></a>
 <a href="https://vitejs.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=vite&theme=dark" alt="Vite" /></a>
 <a href="https://redux.js.org/" target="_blank"><img src="https://skillicons.dev/icons?i=redux&theme=dark" alt="Redux" /></a>
 
@@ -41,6 +41,7 @@ Focused on building scalable architecture: designing databases and RBAC models, 
 <br>
 <a href="https://www.php.net/" target="_blank"><img src="https://skillicons.dev/icons?i=php&theme=dark" alt="PHP" /></a>
 <a href="https://laravel.com/" target="_blank"><img src="https://skillicons.dev/icons?i=laravel&theme=dark" alt="Laravel" /></a>
+<a href="https://codeigniter.com/" target="_blank"><img src="https://thesvg.org/icons/codeigniter/default.svg" width="48" height="48" alt="CodeIgniter" /></a>
 <a href="https://www.postgresql.org/" target="_blank"><img src="https://skillicons.dev/icons?i=postgresql&theme=dark" alt="PostgreSQL" /></a>
 <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" /></a>
 
@@ -52,6 +53,8 @@ Focused on building scalable architecture: designing databases and RBAC models, 
 <a href="https://maplibre.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maplibre/maplibre-original.svg" width="48" height="48" alt="MapLibre" /></a>
 
 </div>
+
+---
 
 ### 📊 GitHub Stats
 
