@@ -4,10 +4,10 @@
 
 <p align="center">
   <a href="https://my-portfolio-segizmunds-projects.vercel.app/">
-    <img src="https://img.shields.io/badge/🚀_My_Portfolio-View_Projects-38BDF8?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1e293b" alt="Portfolio Link" />
+    <img src="https://img.shields.io/badge/🚀_Portfolio-View_Work-38BDF8?style=for-the-badge&logo=vercel&logoColor=white&borderRadius=10" alt="Portfolio Link" />
   </a>
   <a href="mailto:noimxl1@gmail.com">
-    <img src="https://img.shields.io/badge/📧_Send_Email-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1e293b" alt="Email" />
+    <img src="https://img.shields.io/badge/📧_Email-Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white&borderRadius=10" alt="Email" />
   </a>
 </p>
 
