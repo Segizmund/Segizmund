@@ -1,13 +1,22 @@
 # Hi there! 👋 I'm Maksim
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Laravel+%2B+React+%2B+TypeScript;Building+Scalable+Web+Services)](https://git.io/typing-svg)
-
-<p align="center">
-  <a href="https://my-portfolio-segizmunds-projects.vercel.app/">
-    <img src="https://img.shields.io/badge/🚀_Portfolio-View_Work-38BDF8?style=for-the-badge&logo=vercel&logoColor=white&borderRadius=10" alt="Portfolio Link" />
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Laravel+%2B+React+%2B+TypeScript;Building+Scalable+Web+Services" alt="Typing SVG" />
   </a>
+</div>
+
+<p align="left">
+  <b>My Portfolio:</b>&nbsp;
+  <a href="https://my-portfolio-segizmunds-projects.vercel.app/" target="_blank">
+    <img src="https://thesvg.org/icons/portfolio/default.svg" width="24" height="24" alt="Portfolio" align="absmiddle" />
+  </a>
+</p>
+
+<p align="left">
+  <b>Email:</b>&nbsp;
   <a href="mailto:noimxl1@gmail.com">
-    <img src="https://img.shields.io/badge/📧_Email-Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white&borderRadius=10" alt="Email" />
+    <img src="https://thesvg.org/icons/gmail-2026/default.svg" width="24" height="24" alt="Email" align="absmiddle" />
   </a>
 </p>
 
@@ -60,8 +69,13 @@ Focused on building scalable architecture: designing databases and RBAC models, 
 
 ### 📊 GitHub Stats
 
-  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Segizmund&show_icons=true&theme=radical)
-  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=Segizmund&theme=radical)
-  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Segizmund&layout=compact&theme=radical&hide=html)
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Segizmund&show_icons=true&theme=radical" alt="GitHub Stats" width="50%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=Segizmund&theme=radical" alt="GitHub Streak" width="50%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Segizmund&layout=compact&theme=radical&hide=html" alt="Top Languages" width="100%" style="max-width: 800px;" />
+</p>
+
 
 ---
