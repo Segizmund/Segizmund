@@ -33,9 +33,9 @@ Focused on building scalable architecture: designing databases and RBAC models, 
 <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=typescript&theme=dark" alt="TypeScript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=javascript&theme=dark" alt="JavaScript" /></a>
 <a href="https://inertiajs.com/" target="_blank"><img src="https://thesvg.org/icons/inertiajs/default.svg" width="48" height="48" alt="Inertia.js" /></a>
-<a href="https://astro.build/" target="_blank"><img src="https://thesvg.org/icons/astro/default.svg" alt="Astro" /></a>
+<a href="https://astro.build/" target="_blank"><img src="https://thesvg.org/icons/astro/default.svg" width="48" height="48" alt="Astro" /></a>
 <a href="https://tailwindcss.com/" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" alt="Tailwind CSS" /></a>
-<a href="https://getbootstrap.com/" target="_blank"><img src="https://thesvg.org/icons/bootstrap/default.svg" alt="Bootstrap" /></a>
+<a href="https://getbootstrap.com/" target="_blank"><img src="https://thesvg.org/icons/bootstrap/default.svg" width="48" height="48" alt="Bootstrap" /></a>
 <a href="https://vitejs.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=vite&theme=dark" alt="Vite" /></a>
 <a href="https://redux.js.org/" target="_blank"><img src="https://skillicons.dev/icons?i=redux&theme=dark" alt="Redux" /></a>
 
