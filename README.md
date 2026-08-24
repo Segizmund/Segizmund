@@ -5,3 +5,7 @@ My portfolio: [Click here](https://my-portfolio-segizmunds-projects.vercel.app/)
 [![GitHub Streak](https://streak-stats.demolab.com?user=Segizmund&theme=dark&timezone=%2B3)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Segizmund&theme=tokyonight&layout=compact&hide=html)
+
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Segizmund&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=Segizmund&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Segizmund&layout=compact&theme=radical&hide=html)
