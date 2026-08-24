@@ -32,8 +32,10 @@ Focused on building scalable architecture: designing databases and RBAC models, 
 <a href="https://reactjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=typescript&theme=dark" alt="TypeScript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=javascript&theme=dark" alt="JavaScript" /></a>
-<a href="https://tailwindcss.com/" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" alt="Tailwind CSS" /></a>
 <a href="https://inertiajs.com/" target="_blank"><img src="https://thesvg.org/icons/inertiajs/default.svg" width="48" height="48" alt="Inertia.js" /></a>
+<a href="https://astro.build/" target="_blank"><img src="https://thesvg.org/icons/astro/default.svg" alt="Astro" /></a>
+<a href="https://tailwindcss.com/" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" alt="Tailwind CSS" /></a>
+<a href="https://getbootstrap.com/" target="_blank"><img src="https://thesvg.org/icons/bootstrap/default.svg" alt="Bootstrap" /></a>
 <a href="https://vitejs.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=vite&theme=dark" alt="Vite" /></a>
 <a href="https://redux.js.org/" target="_blank"><img src="https://skillicons.dev/icons?i=redux&theme=dark" alt="Redux" /></a>
 
@@ -50,7 +52,7 @@ Focused on building scalable architecture: designing databases and RBAC models, 
 <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" /></a>
 <a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker" /></a>
 <a href="https://nginx.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nginx&theme=dark" alt="Nginx" /></a>
-<a href="https://maplibre.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maplibre/maplibre-original.svg" width="48" height="48" alt="MapLibre" /></a>
+<a href="https://maplibre.org/" target="_blank"><img src="https://thesvg.org/icons/maplibre/default.svg" width="48" height="48" alt="MapLibre" /></a>
 
 </div>
 
@@ -59,12 +61,9 @@ Focused on building scalable architecture: designing databases and RBAC models, 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Segizmund&show_icons=true&theme=radical&hide_border=true&title_color=38BDF8&icon_color=38BDF8" alt="GitHub Stats" height="195" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Segizmund&theme=radical&hide_border=true&stroke=38BDF8" alt="GitHub Streak" height="195" />
-</div>
-<br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Segizmund&layout=compact&theme=radical&hide_border=true&hide=html&title_color=38BDF8&text_color=ffffff" alt="Top Languages" />
+  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Segizmund&show_icons=true&theme=radical)
+  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=Segizmund&theme=radical)
+  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Segizmund&layout=compact&theme=radical&hide=html)
 </div>
 
 ---
