@@ -67,7 +67,3 @@ Focused on building scalable architecture: designing databases and RBAC models, 
 </div>
 
 ---
-
-<p align="center">
-  <em>Thanks for visiting! If you have an interesting project or a collaboration offer, I'd be glad to discuss it. 🚀</em>
-</p>
