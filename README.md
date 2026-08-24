@@ -60,10 +60,8 @@ Focused on building scalable architecture: designing databases and RBAC models, 
 
 ### 📊 GitHub Stats
 
-<div align="center">
   ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Segizmund&show_icons=true&theme=radical)
   ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=Segizmund&theme=radical)
   ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Segizmund&layout=compact&theme=radical&hide=html)
-</div>
 
 ---
