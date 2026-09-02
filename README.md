@@ -8,7 +8,7 @@
 
 <p align="left">
   <b>My Portfolio:</b>&nbsp;
-  <a href="https://my-portfolio-segizmunds-projects.vercel.app/" target="_blank">
+  <a href="https://my-portfolio-five-iota-4imaufhnyr.vercel.app/" target="_blank">
     <img src="https://thesvg.org/icons/portfolio/default.svg" width="24" height="24" alt="Portfolio" align="absmiddle" />
   </a>
 </p>
